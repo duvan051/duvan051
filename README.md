@@ -1,4 +1,4 @@
-# 👋 Hola, soy Duvan Fernando Muñoz Lopez | Full Stack Engineer
+# 👋 Hola, soy Duvan Fernando Muñoz Lopez | Full Stack Engineer | Founder & Lead Engineer at EXQ Solutions
 
 Especializado en crear soluciones escalables, desde la infraestructura en la nube hasta la experiencia de usuario final. 
 
